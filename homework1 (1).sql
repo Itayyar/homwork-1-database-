@@ -1,6 +1,6 @@
 -- Homework #1 - Database Programming
--- Student: [Your Name Here]
--- University ID: [Your University ID Here]
+-- Student: [ibrahim mashhour ismail]
+-- University ID: [202311475]
 
 -- ======================
 -- Q1.A - DDL Definition
